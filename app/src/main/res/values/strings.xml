@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MegaSena</string>
+    <string name="title"> Sorteio de Mega Sena </string>
+    <string name="inputQuantityGames"> Entre a quantidade de jogos </string>
+    <string name="inputNumbersGames"> Entre a quantidade de números </string>
+    <string name="generateButton"> GERAR </string>
+
+</resources>

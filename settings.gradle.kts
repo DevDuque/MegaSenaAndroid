@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "MegaSenaAndroid"
-include(":app")
+include(":app2")
